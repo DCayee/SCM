@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">ProjetoFinal</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world</string>
+
+    <!-- Names -->
+    <string-array name="item_menu">
+        <item>Data e hora</item>
+        <item>Aparelho</item>
+        <item>Status</item>
+        <item>Potência instantânea</item>
+        <item>Consumo de água instantâneo</item>
+        <item>Dispositivos</item>
+        <item></item>
+    </string-array>
+
+
+    <!-- Pictures -->
+    <array name="desenhos_menu">
+        <item>@drawable/relogio</item>
+        <item>@drawable/chuveiro</item>
+        <item>@drawable/switch_on_off</item>
+        <item>@drawable/raio</item>
+        <item>@drawable/gota</item>
+        <item>@drawable/configuracoes</item>
+        <item></item>
+    </array>
+
+
+    <!-- Status -->
+    <string-array name="status">
+        <item>11/06/2017 - 2:32</item>
+        <item>Lorenzetti 6800W </item>
+        <item>ON/OFF</item>
+        <item>5400</item>
+        <item>6,00</item>
+        <item>Configurações dos dispositivos</item>
+        <item></item>
+    </string-array>
+
+    <!-- Contact type -->
+
+    <string-array name="complemento">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Watts</item>
+        <item>litros/minuto</item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+
+</resources>
